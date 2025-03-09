@@ -2,7 +2,7 @@ import React, { useState , useRef} from "react";
 import Cats from '../assets/Cats.gif';
 import CatsImg from '../assets/Cats.png';
 import catsound from '../assets/catsound.wav';
-import '../styles/Cat.css';
+import '../styles/cat.css';
 
 const Cat = () => {
   const [cat, setCat] = useState(false);

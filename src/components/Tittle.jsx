@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/Tittle.css';
+import '../styles/tittle.css';
 
 
 const Tittle = () => {
